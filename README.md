@@ -42,7 +42,7 @@ brew install scrcpy
 
 1. Clone or download this script:
 ```bash
-git clone https://github.com/CrickSoldier/ADB-Wifi-Connect.git
+git clone https://github.com/CrickSoldier/ADB-Wifi-Connect-Mac-Script.git
 cd adb-wifi-connect
 ```
 
