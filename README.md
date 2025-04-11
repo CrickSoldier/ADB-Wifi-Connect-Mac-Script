@@ -42,7 +42,7 @@ brew install scrcpy
 
 1. Clone or download this script:
 ```bash
-git clone https://github.com/yourusername/adb-wifi-connect.git
+git clone https://github.com/CrickSoldier/ADB-Wifi-Connect.git
 cd adb-wifi-connect
 ```
 
@@ -91,7 +91,7 @@ chmod +x adb-wifi-connect.sh
 
 - Based on [scrcpy](https://github.com/Genymobile/scrcpy) by Genymobile
 - ADB Platform Tools by Google
-- macOS-compatible improvements by [yourname]
+- macOS-compatible improvements by [cricksoldier]
 
 ---
 
